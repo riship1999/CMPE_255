@@ -1,4 +1,4 @@
-CMPE255 Assignemnt
+CMPE255 Assignment
 
 Medium Article - https://medium.com/@rishikeshavlal.patel/mastering-data-science-crisp-dm-kdd-and-semma-aa20bf1e1a8e
 
