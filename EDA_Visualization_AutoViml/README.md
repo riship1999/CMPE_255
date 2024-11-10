@@ -19,3 +19,5 @@ ii) timeseries - AirQuality dataset
 Colab link - https://colab.research.google.com/drive/1JuY7VV6IKK4cWpOmyv6CUQxOuD2K8fn3?usp=sharing
 
 - Target file contains results of AutoViml
+
+- Youtube video - https://youtu.be/B6gLQu31XGw
