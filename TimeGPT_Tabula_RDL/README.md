@@ -24,9 +24,9 @@ Long Horizon - https://colab.research.google.com/drive/1EDx_Dv6X35u1aqNcnlWBbP1R
 
 TABULA
 
-Generating synthetic data using Tabular - https://drive.google.com/file/d/1Hhqry3lWGPDIWWluiIIJh6Pq3LLgSiBK/view?usp=sharing
+Generating synthetic data using Tabular - https://colab.research.google.com/drive/1Hhqry3lWGPDIWWluiIIJh6Pq3LLgSiBK
 
-Zero-shot inference using the Tabular model - https://drive.google.com/file/d/1Hhqry3lWGPDIWWluiIIJh6Pq3LLgSiBK/view?usp=sharing
+Zero-shot inference using the Tabular model - https://colab.research.google.com/drive/14kJCbc4NmPpwVEwo-fsr9grhCR2XWtF4?usp=sharing
 
 RDL
 
