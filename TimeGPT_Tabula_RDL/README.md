@@ -12,15 +12,27 @@ TIME GPT
 
 Multivariate - https://colab.research.google.com/drive/1NSpXxOvThbKJcsbzbnIJLSPa0c1gXVji?usp=sharing
 
+YoutTube - https://youtu.be/bWSh9ZnXBSI
+
 Long Horizon - https://colab.research.google.com/drive/1EDx_Dv6X35u1aqNcnlWBbP1Rm7GdPBkV?usp=sharing
+
+Youtube - https://youtu.be/08ti5V8fHPU
 
 -Fine-tuning TimeGPT with custom data - https://colab.research.google.com/drive/1_ec7dvX4yf-8SW3_X-sqJTvd7Bco1AJg?usp=sharing
 
+YouTube - https://youtu.be/IVm6OacISu4
+
 -Time series anomaly detection - https://colab.research.google.com/drive/1PNNpSySUsQhZ33V4Chs_fYWZp24mFq_9?usp=sharing
+
+Youtube - https://youtu.be/TwmgUfvWjaY
 
 -Energy Forecasting - https://colab.research.google.com/drive/1PB2ydiptPFczhlOUOnhk4mQ104H1g1S5?usp=sharing
 
+YouTube - https://youtu.be/X5xd1147Goo
+
 -Specific use-case forecasts for energy demand and Bitcoin price prediction - https://colab.research.google.com/drive/1VA5-6RgPooU8nm6JAXUoydSQP3B99TSJ?usp=sharing
+
+Youtube - https://youtu.be/tK9aHa5wnnQ
 
 TABULA
 
