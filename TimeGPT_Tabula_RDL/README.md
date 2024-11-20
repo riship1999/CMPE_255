@@ -40,8 +40,13 @@ Generating synthetic data using Tabular - https://colab.research.google.com/driv
 
 Zero-shot inference using the Tabular model - https://colab.research.google.com/drive/14kJCbc4NmPpwVEwo-fsr9grhCR2XWtF4?usp=sharing
 
+Youtube - https://youtu.be/08ti5V8fHPU
+
 RDL
 
 Training a GNN-based model for tabular prediction using RDL - https://colab.research.google.com/drive/1o_FNN83ZqM1XmZ8Zs1aDBmvbvLu5Pc50?usp=sharing
+
+Youtube - https://youtu.be/08ti5V8fHPU
+
 
 Each task is implemented in a Colab notebook and can be accessed in this repository. Additionally, for each Colab notebook, a demonstration video explains the code, parameters, and key steps.
