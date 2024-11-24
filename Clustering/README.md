@@ -15,6 +15,9 @@ Contents
 
 This repository is divided into multiple Colab notebooks, each focusing on a specific clustering algorithm or application:
 
+![image](https://github.com/user-attachments/assets/8a972395-c6d6-45a8-a9a5-6f02bff31b81)
+
+
 1. K-Means Clustering (From Scratch) -
    
 Colab - https://colab.research.google.com/drive/118t8VRo0n69MRQTxB7VLcGhQgrr-wHPs?usp=sharing
