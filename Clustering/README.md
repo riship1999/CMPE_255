@@ -15,6 +15,8 @@ Contents
 
 This repository is divided into multiple Colab notebooks, each focusing on a specific clustering algorithm or application:
 
+Below Image shows distribution of points across centroid of each clusters.
+
 ![image](https://github.com/user-attachments/assets/8a972395-c6d6-45a8-a9a5-6f02bff31b81)
 
 
