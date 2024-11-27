@@ -1,0 +1,57 @@
+Leveraging Customer Feedback for Multi-modal Insight Extraction
+This repository contains all materials related to the study and presentation of the paper "Leveraging Customer Feedback for Multi-modal Insight Extraction" by Sandeep Sricharan Mukku, Abinesh Kanagarajan, Pushpendu Ghosh, and Chetan Aggarwal, published by Amazon Research.
+
+Contents of the Repository
+Slide Deck:
+
+A detailed presentation summarizing the paper.
+File: Short_Story.pptx
+Includes sections like Introduction, Current Limitations, Proposed Solution (MINE), Experimental Setup, Results, and Applications.
+Medium Article:
+
+A concise, reader-friendly summary of the paper with insights, comparisons, and practical applications.
+Link to Medium Article (Replace with actual URL).
+Research Paper:
+
+The original research paper published on arXiv.
+File: short_story_paper.pdf
+Paper Link: arXiv:2410.09999.
+Code for Visualizations:
+
+Python scripts to recreate key graphs and insights used in the Medium article.
+File: visualizations.py
+Overview of the Study
+Objective
+To develop a novel method to extract actionable insights from multi-modal customer feedback (text and images) using the proposed MINE (Multi-modal Insight Extraction) architecture.
+
+Key Contributions
+Weakly-Supervised Learning: Automatically generates high-quality training data, reducing manual annotation dependency.
+Multi-modal Fusion: Combines text and image inputs in a shared latent space for better contextual understanding.
+Significant Performance Gains: Achieved a 14-point F1-score improvement over baseline models like ALBEF and VL-T5.
+Applications
+Customer Feedback Analysis: Extract insights to improve product design.
+Support Automation: Identify and resolve issues efficiently.
+Content Moderation: Filter inappropriate or irrelevant content automatically.
+Repository Structure
+plaintext
+Copy code
+.
+├── Short_Story.pptx              # Slide deck presentation
+├── short_story_paper.pdf         # Original research paper
+├── visualizations.py             # Python scripts for graphs
+├── README.md                     # This file
+How to Use
+Explore the Slide Deck:
+Review the key aspects of the study and proposed solution.
+Read the Medium Article:
+Gain an in-depth understanding with additional comparisons and visuals.
+Run the Code:
+Use visualizations.py to generate key graphs used in the Medium article.
+References
+Original Paper:
+Mukku, S., Kanagarajan, A., Ghosh, P., & Aggarwal, C. "Leveraging Customer Feedback for Multi-modal Insight Extraction." arXiv:2410.09999.
+
+Related Work:
+
+Junnan Li et al., "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation." ICML 2022.
+Alec Radford et al., "Learning Transferable Visual Models from Natural Language Supervision." OpenAI, 2021.
