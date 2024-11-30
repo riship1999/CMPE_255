@@ -60,7 +60,7 @@ To develop a novel method to extract actionable insights from multi-modal custom
 
 ## How to Use
 1. **Explore the Slide Deck**:
-   - Review the key aspects of the study and proposed solution.
+   - Review the key aspects of the survey study.
 2. **Read the Medium Article**:
    - Gain an in-depth understanding with additional comparisons and visuals.
 3. **Run the Code**:
