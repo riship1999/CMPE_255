@@ -5,8 +5,9 @@
 This repository demonstrates various dimensionality reduction techniques, showcasing their applications on diverse datasets (image, tabular, and medical). Each technique is implemented in Google Colab and explained in detail through video walkthroughs. The project is organized into three parts:
 
 - **Part A**: Dimensionality reduction on image datasets - https://colab.research.google.com/drive/1mfyY0g1K4z7vo0doq1NOGvULL48toGFG?usp=sharing
-- 
+ 
 - **Part B**: Dimensionality reduction on tabular datasets - https://colab.research.google.com/drive/1uPZsGgxo8IqYzXgi8s0xMGzOEdqe4suN?usp=sharing
+ 
 - **Part C**: Dimensionality reduction using Databricks - https://colab.research.google.com/drive/1FJ60YM5J81QWptN7tz9B3rKRHDmYwTao?usp=sharing
 
 ## Techniques Demonstrated
