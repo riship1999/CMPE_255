@@ -1,6 +1,5 @@
 
-# Dimensionality Reduction Techniques: Colab Demonstrations
-
+# Dimensionality Reduction Techniques
 ## Overview
 
 This repository demonstrates various dimensionality reduction techniques, showcasing their applications on diverse datasets (image, tabular, and medical). Each technique is implemented in Google Colab and explained in detail through video walkthroughs. The project is organized into three parts:
@@ -25,12 +24,6 @@ The following dimensionality reduction techniques are included:
 9. **Factor Analysis** (Scikit-learn)
 10. **Autoencoders**
 
-## Project Files
-
-### 1. Colab Notebooks
-- **Part A**: Dimensionality reduction on image datasets
-- **Part B**: Dimensionality reduction on tabular datasets
-- **Part C**: Dimensionality reduction using databricks.
 
 Each notebook includes:
 - Data preprocessing
@@ -62,19 +55,6 @@ The results commentary is included in both the Colab notebooks and this README. 
 - **Tabular datasets**: Iris dataset
 - **Medical datasets**: Selected from reputable papers, ensuring variety and relevance
 
-## Results Commentary
-
-- **Image Datasets**:
-  - Techniques like t-SNE and UMAP provided excellent clustering and visualization.
-  - Autoencoders captured nonlinear patterns effectively but required more computational effort.
-  
-- **Tabular Datasets**:
-  - Factor Analysis and Kernel PCA worked well for feature decorrelation.
-  - Incremental PCA and Randomized PCA performed efficiently on larger datasets.
-
-- **Medical Datasets**:
-  - UMAP and t-SNE excelled in revealing hidden patterns in high-dimensional data.
-  - Autoencoders demonstrated their ability to compress and reconstruct data with minimal loss.
 
 ## Visualizations
 
