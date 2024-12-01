@@ -1,7 +1,7 @@
 
 # Leveraging Customer Feedback for Multi-modal Insight Extraction
 
-This repository contains all materials related to the study and presentation of the paper *"Leveraging Customer Feedback for Multi-modal Insight Extraction"* by Sandeep Sricharan Mukku, Abinesh Kanagarajan, Pushpendu Ghosh, and Chetan Aggarwal, published by Amazon Research.
+This repository contains all materials related to the short story study and presentation of the paper *"Leveraging Customer Feedback for Multi-modal Insight Extraction"* published by Amazon Research in arxiv.
 
 ---
 
@@ -13,7 +13,7 @@ This repository contains all materials related to the study and presentation of 
 
 2. **Medium Article**:
    - A concise, reader-friendly summary of the paper with insights, comparisons, and practical applications.
-   - [Link to Medium Article](#) (Replace with actual URL).
+   - [Link to Medium Article](https://medium.com/@rishikeshavlal.patel/revolutionizing-customer-feedback-analysis-the-role-of-multi-modal-insight-extraction-mine-fd6806b9c84a)
 
 3. **Research Paper**:
    - The original research paper published on *arXiv*.
@@ -29,6 +29,9 @@ This repository contains all materials related to the study and presentation of 
 ## Overview of the Study
 ### Objective
 To develop a novel method to extract actionable insights from multi-modal customer feedback (text and images) using the proposed **MINE (Multi-modal Insight Extraction)** architecture.
+
+![Architecture](https://github.com/user-attachments/assets/90489506-0143-4d42-95d2-a1642cc36417)
+
 
 ### Key Contributions
 1. **Weakly-Supervised Learning**: Automatically generates high-quality training data, reducing manual annotation dependency.
@@ -57,7 +60,7 @@ To develop a novel method to extract actionable insights from multi-modal custom
 
 ## How to Use
 1. **Explore the Slide Deck**:
-   - Review the key aspects of the study and proposed solution.
+   - Review the key aspects of the survey study.
 2. **Read the Medium Article**:
    - Gain an in-depth understanding with additional comparisons and visuals.
 3. **Run the Code**:
