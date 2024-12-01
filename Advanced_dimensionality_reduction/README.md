@@ -5,9 +5,10 @@
 
 This repository demonstrates various dimensionality reduction techniques, showcasing their applications on diverse datasets (image, tabular, and medical). Each technique is implemented in Google Colab and explained in detail through video walkthroughs. The project is organized into three parts:
 
-- **Part A**: Dimensionality reduction on image datasets (e.g., faces, digits).
-- **Part B**: Dimensionality reduction on tabular datasets (e.g., Iris dataset).
-- **Part C**: Dimensionality reduction on medical datasets sourced from papers.
+- **Part A**: Dimensionality reduction on image datasets - https://colab.research.google.com/drive/1mfyY0g1K4z7vo0doq1NOGvULL48toGFG?usp=sharing
+- 
+- **Part B**: Dimensionality reduction on tabular datasets - https://colab.research.google.com/drive/1uPZsGgxo8IqYzXgi8s0xMGzOEdqe4suN?usp=sharing
+- **Part C**: Dimensionality reduction using Databricks - https://colab.research.google.com/drive/1FJ60YM5J81QWptN7tz9B3rKRHDmYwTao?usp=sharing
 
 ## Techniques Demonstrated
 
@@ -29,7 +30,7 @@ The following dimensionality reduction techniques are included:
 ### 1. Colab Notebooks
 - **Part A**: Dimensionality reduction on image datasets
 - **Part B**: Dimensionality reduction on tabular datasets
-- **Part C**: Dimensionality reduction on medical datasets
+- **Part C**: Dimensionality reduction using databricks.
 
 Each notebook includes:
 - Data preprocessing
@@ -57,7 +58,7 @@ The results commentary is included in both the Colab notebooks and this README. 
 
 ## Datasets
 
-- **Image datasets**: Faces and digits datasets
+- **Image datasets**: cifar-10
 - **Tabular datasets**: Iris dataset
 - **Medical datasets**: Selected from reputable papers, ensuring variety and relevance
 
@@ -80,13 +81,4 @@ The results commentary is included in both the Colab notebooks and this README. 
 - Interactive tools such as Plotly and the UMAP exploration tool (https://pair-code.github.io/understanding-umap/) were integrated for enhanced understanding.
 - Animated visualizations help in interpreting t-SNE and UMAP transformations over iterations.
 
-## Additional Resources
 
-- [Hands-On Machine Learning (Chapter 8)](https://github.com/ageron/handson-ml2/blob/master/08_dimensionality_reduction.ipynb)
-- [Analytics Vidhya Blog on Dimensionality Reduction](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/)
-- [Understanding UMAP](https://pair-code.github.io/understanding-umap/)
-- [PyCaret for Automated ML](https://www.kaggle.com/code/sureshmecad/pycaret-automl-beginers/notebook)
-
-## Submission
-
-Please submit the GitHub repository link for evaluation.
