@@ -6,4 +6,5 @@ Colab link - https://colab.research.google.com/drive/1sCovMGtbWrkrrNVeticZxeZbt6
 
 Medium article link - https://medium.com/@rishikeshavlal.patel/end-to-end-data-science-project-using-ai-a-crisp-dm-approach-to-predict-california-house-prices-74cfc12c12ee
 
+Youtube - https://youtu.be/-BpmHJqholM
 
