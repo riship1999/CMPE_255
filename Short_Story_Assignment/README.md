@@ -14,13 +14,16 @@ This repository contains all materials related to the short story study and pres
 2. **Medium Article**:
    - A concise, reader-friendly summary of the paper with insights, comparisons, and practical applications.
    - [Link to Medium Article](https://medium.com/@rishikeshavlal.patel/revolutionizing-customer-feedback-analysis-the-role-of-multi-modal-insight-extraction-mine-fd6806b9c84a)
+  
+3. **Youtube Video**:
+   - [Link to video](https://youtu.be/POpe-jeueEg)
 
-3. **Research Paper**:
+4. **Research Paper**:
    - The original research paper published on *arXiv*.
    - File: `short_story_paper.pdf`
    - Paper Link: [arXiv:2410.09999](https://arxiv.org/abs/2410.09999).
 
-4. **Code for Visualizations**:
+5. **Code for Visualizations**:
    - Python scripts to recreate key graphs and insights used in the Medium article.
    - File: `visualizations.py`
 
