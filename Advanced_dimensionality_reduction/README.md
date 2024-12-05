@@ -33,7 +33,7 @@ Each notebook includes:
 - Visualizations using tools like Matplotlib, Seaborn, and Plotly for interactivity
 
 ### 2. Video Walkthrough
-A YouTube video walks through the Colab code and explains the results. [Watch the video here](#).
+A YouTube video walks through the Colab code and explains the results. [Watch the video here](https://youtu.be/uDByw7G-H1c).
 
 ### 3. Results Commentary
 The results commentary is included in both the Colab notebooks and this README. It compares the performance and visualization capabilities of different techniques.
