@@ -1,5 +1,5 @@
 
-# Machine Learning Models from Scratch and Advanced Techniques
+# Decision Trees and Ensemble
 
 ## 1. Gradient Boosting (GBM) from Scratch
 - **Task**: Implement Gradient Boosting from scratch and demonstrate in Colab.
